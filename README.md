@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hey, i'm Kali!
 
-<!--
-**Vortetty/Vortetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just programming as a hobby for now
 
-Here are some ideas to get you started:
+## A bit more about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class basicPronoun():
+    def __init__(self, sub, obj):
+        self.subjective = sub
+        self.objective = obj
+
+kali = {
+    "pronouns": [
+        basicPronoun("it", "its"),
+        basicPronoun("she", "her"),
+        basicPronoun("they", "them"),
+    ],
+    "languages": {
+        "natural": [ "english" ],
+        "computer": [ "python", "c++", "kotlin", "java", "javascript", "c#", "html", "css" ]
+    },
+    "current_focus": "Random projects for fun",
+    "fun_fact": "Knowing what to search is half of the battle"
+}
+```
+
+## Summary
+
+![Winter's GitHub stats](https://github-readme-stats.vercel.app/api?username=vortetty&theme=dracula&show_icons=true)
+
+![Winter's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vortetty&layout=compact&langs_count=10&theme=dracula)
+
+![Winter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vortetty&theme=dracula)
