@@ -1,6 +1,6 @@
 # Hey, i'm Kali!
 
-Just programming as a hobby for now
+Just a trans girl programming in my free time
 
 ## A bit more about me
 
@@ -16,6 +16,7 @@ kali = {
         basicPronoun("she", "her"),
         basicPronoun("they", "them"),
     ],
+    "names": [ "Kali", "Winter", "Tæmt modʒiɹæ", "Vortetty" ]
     "languages": {
         "natural": [ "english" ],
         "computer": [ "python", "c++", "kotlin", "java", "javascript", "c#", "html", "css" ]
@@ -26,6 +27,8 @@ kali = {
 ```
 
 ## Summary
+
+![trophy](https://github-profile-trophy.vercel.app/?username=vortetty&theme=dracula)
 
 ![Winter's GitHub stats](https://github-readme-stats.vercel.app/api?username=vortetty&theme=dracula&show_icons=true)
 
