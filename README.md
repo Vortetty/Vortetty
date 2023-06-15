@@ -19,7 +19,7 @@ kali = {
     "names": [ "Kali", "Winter", "Tæmt modʒiɹæ", "Vortetty" ]
     "languages": {
         "natural": [ "english" ],
-        "computer": [ "python", "c++", "kotlin", "java", "javascript", "c#", "html", "css" ]
+        "computer": [ "python", "c++", "kotlin", "java", "javascript", "c#", "html", "css", "rust" ]
     },
     "current_focus": "Random projects for fun",
     "fun_fact": "Knowing what to search is half of the battle"
