@@ -28,10 +28,8 @@ kali = {
 
 ## Summary
 
-![trophy](https://github-profile-trophy.vercel.app/?username=vortetty&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=vortetty&theme=gruvbox)
 
-![Winter's GitHub stats](https://github-readme-stats.vercel.app/api?username=vortetty&theme=dracula&show_icons=true)
+![Winter's GitHub stats](https://github-readme-stats.vercel.app/api?username=vortetty&theme=gruvbox&show_icons=true)
 
-![Winter's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vortetty&layout=compact&langs_count=10&theme=dracula)
-
-![Winter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vortetty&theme=dracula)
+![Winter's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vortetty&layout=compact&langs_count=10&theme=gruvbox&size_weight=0.75&count_weight=0.25)
