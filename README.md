@@ -32,4 +32,4 @@ kali = {
 
 ![Winter's GitHub stats](https://github-readme-stats.vercel.app/api?username=vortetty&theme=gruvbox&show_icons=true)
 
-![Winter's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vortetty&layout=compact&langs_count=10&theme=gruvbox&size_weight=0.75&count_weight=0.25)
+![Winter's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vortetty&layout=donut-vertical&langs_count=20&theme=gruvbox&size_weight=0.9&count_weight=0.10)
