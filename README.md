@@ -16,7 +16,7 @@ kali = {
         basicPronoun("she", "her"),
         basicPronoun("they", "them"),
     ],
-    "names": [ "Kali", "Winter", "Tæmt modʒiɹæ", "Vortetty" ]
+    "names": [ "Kali", "Winter", "Tæmt modʒiɹæ", "Vortetty" ],
     "languages": {
         "natural": [ "english" ],
         "computer": [ "python", "c++", "kotlin", "java", "javascript", "c#", "html", "css", "rust" ]
