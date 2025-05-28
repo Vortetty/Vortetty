@@ -26,10 +26,6 @@ kali = {
 }
 ```
 
-## Why so sparse on repos?
-
-I've started pruning it semi-regularly. Anything i don't feel represents me and does not contribute to the overall open source community is privated; things like merged forks, unused forks, or obsolete projects from my early early learning or school where other resources do better and/or may show bad practice. In a way like taking dead limbs off a tree for safety.
-
 ## Summary
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=vortetty&theme=gruvbox)
