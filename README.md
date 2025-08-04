@@ -1,3 +1,7 @@
+# [I moved to codeberg](https://codeberg.org/vortetty)
+
+all future work will go there, the github will stay as-is
+
 # Hey, i'm Kali!
 
 Just a trans girl programming for fun in my free time
