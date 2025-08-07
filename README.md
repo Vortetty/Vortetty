@@ -1,36 +1,10 @@
 # [I moved to codeberg](https://codeberg.org/vortetty)
 
-all future work will go there, the github will stay as-is
+all future work will go there, the github will stay as-is, i am tired of all the ai stuff going on here so it'll just be archival and contributions to other projects.
 
 # Hey, i'm Kali!
 
 Just a trans girl programming for fun in my free time
-
-## A bit more about me
-
-```python
-class basicPronoun():
-    def __init__(self, sub, obj):
-        self.subjective = sub
-        self.objective = obj
-
-kali = {
-    "pronouns": [
-        basicPronoun("it", "its"),
-        basicPronoun("she", "her"),
-        basicPronoun("they", "them"),
-    ],
-    "names": [ "Kali", "Winter", "Tæmt modʒiɹæ", "Vortetty" ],
-    "languages": {
-        "natural": [ "english" ],
-        "computer": [ "python", "c++", "kotlin", "java", "javascript", "c#", "html", "css", "rust" ]
-    },
-    "current_focus": "Random projects for fun",
-    "fun_fact": "Knowing what to search is half of the battle"
-}
-```
-
-## Summary
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=vortetty&theme=gruvbox)
 
