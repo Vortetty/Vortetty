@@ -1,5 +1,4 @@
-# [I moved to codeberg](https://codeberg.org/vortetty)
-
+# I moved to codeberg
 all future work will go there, the github will stay as-is, i am tired of all the ai stuff going on here so it'll just be archival and contributions to other projects.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=vortetty&theme=gruvbox)
